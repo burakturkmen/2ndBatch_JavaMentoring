@@ -11,6 +11,7 @@ public class equalsIgnoreCase {
         System.out.println(firstName.equalsIgnoreCase(lastName));
 
 
+
     }
 
 }
